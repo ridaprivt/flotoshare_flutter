@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "948213157714",
+    "project_id": "flotoshare",
+    "storage_bucket": "flotoshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948213157714:android:136aa0830ac6c50ea0f48b",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948213157714-sl9et6b0i375f6dr5j10g42fs80uk3pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7IHeqwse6ufJryN6_wdbsomqeySMthU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948213157714-duh0ul370bsh2jnt43g27u61e0vvts3u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "948213157714-8vpt958bgbmi79o7bihvb9m0gvfobajn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sharePhoto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948213157714:android:305d044ac007439ca0f48b",
+        "android_client_info": {
+          "package_name": "com.example.share_photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948213157714-sl9et6b0i375f6dr5j10g42fs80uk3pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7IHeqwse6ufJryN6_wdbsomqeySMthU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948213157714-duh0ul370bsh2jnt43g27u61e0vvts3u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "948213157714-8vpt958bgbmi79o7bihvb9m0gvfobajn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sharePhoto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
