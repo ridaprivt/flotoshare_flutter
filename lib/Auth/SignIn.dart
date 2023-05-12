@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:get/get.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'SignUp.dart';
 import 'package:auth/main.dart';
@@ -108,7 +107,7 @@ class _SignInState extends State<SignIn> {
                   Row(
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
-                      Text('  Do you have an account?',
+                      Text('  Don\'t have an account?',
                           style: GoogleFonts.roboto(
                               textStyle: TextStyle(
                                   fontSize: 15.5.sp,

@@ -1,13 +1,7 @@
 import 'package:flutter/material.dart'; // ignore_for_file: prefer_const_literals_to_create_immutables, prefer_const_constructors
-import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'package:flutter/material.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
-import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'Post.dart';
-import 'package:fancy_shimmer_image/fancy_shimmer_image.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
